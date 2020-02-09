@@ -1,0 +1,14 @@
+음성 파일은 반드시 확장자가 .wav인 파일을 사용
+
+양자화 bit수는 16bit
+
+음성만 있는 파일은 CMU ARCTIC 코퍼스
+
+잡음만 있는 파일은 DEMAND를 사용
+
+import wave
+
+Mel power spectrogram
+
+log변환 하는 이유는?
+window 사이즈
