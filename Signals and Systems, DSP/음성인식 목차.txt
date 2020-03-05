@@ -1,0 +1,10 @@
+음성 특징추출 기술
+선형예측계수(Linear Predictive Coefficient) 기술
+켑스트럼(Cepstrum) 기술
+멜프리퀀시켑스트럼(Mel Frequency Cepstral Coefficient, MFCC) 기술
+주파수 대역별 에너지(Filter Bank Energy) 기술
+주파수 대역별 에너지(Filter Bank Energy) 기술
+음성인식 기술
+VQ(Vector Quantization) 기술
+HMM (통계적 패턴 인식을 이용) 기술
+DTW (템플릿 기반의 패턴 매칭 방법을 이용) 기술
